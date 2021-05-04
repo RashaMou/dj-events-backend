@@ -12,8 +12,9 @@
   "devDependencies": {},
   "dependencies": {
     "knex": "0.21.18",
+    "slugify": "^1.5.1",
     "sqlite3": "5.0.0",
-    "strapi": "3.6.0",
+    "strapi": "3.6.1",
     "strapi-admin": "3.6.0",
     "strapi-connector-bookshelf": "3.6.0",
     "strapi-plugin-content-manager": "3.6.0",
